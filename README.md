@@ -19,7 +19,6 @@ Dataset Columns
 
 | Column           | Description |
 |---------------------|--------------|
-
 | ID                |  Customer ID |
 | Marital Status   | Married or Single |
 | Gender           | Male or Female |
