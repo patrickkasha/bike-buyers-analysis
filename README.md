@@ -18,19 +18,19 @@ File Structure
 Dataset Columns
 
 | Column           | Description |
-|------------------|--------------|
+|---------------------|--------------|
 
-| ID               |  Customer ID |
+| ID                |  Customer ID |
 | Marital Status   | Married or Single |
 | Gender           | Male or Female |
-| Income           | Annual income (USD) |
-| Children         | Number of children |
+| Income            | Annual income (USD) |
+| Children        | Number of children |
 | Education        | Level of education (e.g. Bachelor's, Master's) |
-| Occupation       | Type of job (e.g. Professional, Clerical, Manual) |
+| Occupation      | Type of job (e.g. Professional, Clerical, Manual) |
 | Home Owner       | Home ownership status (Yes/No) |
 | Cars             | Number of cars owned |
 | Commute Distance | Commuting distance (e.g. 0-1 Miles, 5-10 Miles) |
-| Region           | Customer's region (Europe, Pacific, North America) |
+| Region            | Customer's region (Europe, Pacific, North America) |
 | Age              | Customer age |
 | Age Group        | Age group (Teen, Middle Age, Senior) |
 | Bike Purchased   | Outcome - Yes or No |
